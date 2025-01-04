@@ -1,5 +1,5 @@
 # OnePlus-8T-Project
-A repository of sorts.
+One Stop Shop for OnePlus 8T
 
 ### Rom's
 -Crdroid(Official) by Bojantanasic [Proton-Drive](https://drive.proton.me/urls/3XSQBT7PC4#MyWy4VG17t5s) [Google-Drive](https://drive.google.com/drive/folders/1XBtSdFW3Q5jnorIb6bdES5TSKr7IQ41U) 
@@ -12,9 +12,9 @@ A repository of sorts.
 
 -Nameless(Official) by Chris Chen [Proton-Drive](https://drive.proton.me/urls/E7AHFKD4WR#T15pDd8phJ37) [Google-Drive](https://drive.google.com/drive/folders/1YEHGmDmjNf7MB4zk2fqMg5Wj8X1KnYD9) 
 
--Deepest(Official) by P.A.N.Z [Proton-Drive](https://drive.proton.me/urls/FMRGMPMGBR#GnvZ44A9U_R3) [Google-Drive](https://drive.google.com/drive/folders/1X0JuRD9a0oNFb_xu4fGzT76Ompxi2igR) 
+-Derpest(Official) by P.A.N.Z [Proton-Drive](https://drive.proton.me/urls/FMRGMPMGBR#GnvZ44A9U_R3) [Google-Drive](https://drive.google.com/drive/folders/1X0JuRD9a0oNFb_xu4fGzT76Ompxi2igR) 
 
--Crdroid & RisingOS by Watchdogs [Proton-Drive](https://drive.proton.me/urls/QCK6E3ERVW#LufajEjEbE9k) [Google-Drive](https://drive.google.com/drive/folders/18qDU9vuc6bH_PTqJvHIyQkpqzFTPuHIN) 
+-Crdroid, RisingOS & EvolutionX  by Watchdogs [Proton-Drive](https://drive.proton.me/urls/QCK6E3ERVW#LufajEjEbE9k) [Google-Drive](https://drive.google.com/drive/folders/18qDU9vuc6bH_PTqJvHIyQkpqzFTPuHIN) 
 
 -Matrix(Official), Alphadroid(Official) & Project Infinity(Official) by Zizzyboy [Proton-Drive](https://drive.proton.me/urls/JMRY8ACRQC#1ZD3dxiZP4ES) [Google-Drive](https://drive.google.com/drive/folders/1kaPww3kK8zHs_c0b9r0AYFEFn1vbfics) 
 
@@ -54,6 +54,6 @@ A repository of sorts.
 ## [Nextcloud](https://whyme-cloud.allsync.com/s/EkGs94iPaQPcqam) 
 
 I hope this comes in handy for some people. I wanted to put everything you need in one place for 8T. All files have source.txt not README.md files anymore since Proton and Google don't support them like Nextcloud. They are there so you can verify everything I have uploaded and put in the repository is authentic.
-Nextcloud account will be deleted in the next couple of months. I haven't decided yet honestly. I migrated everything to Google Drive but if you want privacy then use Proton. I try and sync everything to Proton and Google once a day if I find updates. If any information on here isn't correct or you want something added just contact me and I will gladly correct it or add it. 
+Nextcloud account will be deleted in the next couple of months. I haven't decided yet honestly. I migrated everything to Google Drive but if you want privacy then use Proton. I try and sync everything to Proton and Google once a day if I find updates. If any information on here isn't correct or you want something added just contact me (whyme1987@pm.me) and I will gladly correct it or add it. 
 
 
