@@ -14,7 +14,7 @@ One Stop Shop for OnePlus 8T
 
 -Derpest(Official) by P.A.N.Z [Proton-Drive](https://drive.proton.me/urls/FMRGMPMGBR#GnvZ44A9U_R3) [Google-Drive](https://drive.google.com/drive/folders/1X0JuRD9a0oNFb_xu4fGzT76Ompxi2igR) 
 
--Crdroid, RisingOS,EvolutionX & MistOS by Watchdogs [Proton-Drive](https://drive.proton.me/urls/QCK6E3ERVW#LufajEjEbE9k) [Google-Drive](https://drive.google.com/drive/folders/18qDU9vuc6bH_PTqJvHIyQkpqzFTPuHIN) 
+-Crdroid, RisingOS, EvolutionX & MistOS by Watchdogs [Proton-Drive](https://drive.proton.me/urls/QCK6E3ERVW#LufajEjEbE9k) [Google-Drive](https://drive.google.com/drive/folders/18qDU9vuc6bH_PTqJvHIyQkpqzFTPuHIN) 
 
 -Matrix(Official), Alphadroid(Official) & Project Infinity(Official) by Zizzyboy [Proton-Drive](https://drive.proton.me/urls/JMRY8ACRQC#1ZD3dxiZP4ES) [Google-Drive](https://drive.google.com/drive/folders/1kaPww3kK8zHs_c0b9r0AYFEFn1vbfics) 
 
