@@ -1,4 +1,4 @@
-# OnePlus-8T-Project
+# OnePlus 8T Project
 One Stop Shop for OnePlus 8T
 
 ### Rom's
